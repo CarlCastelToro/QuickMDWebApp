@@ -1,0 +1,1 @@
+import{y as e}from"./App-D2mkpy0S.js";export{e as markdown};
